@@ -4,6 +4,8 @@
 
 ![CodeArena workspace with the problem list, the Two Sum description and the code editor](docs/screenshot.jpg)
 
+![Animated demo: writing a Two Sum solution, running the tests and submitting](docs/demo.gif)
+
 Practise 26 hand-written coding interview problems, from Two Sum to Trapping Rain Water, in a dark, VS Code-style workspace. Everything runs client-side. A module Web Worker judges your JavaScript against sample and hidden tests, enforces a 3-second time limit, and reports runtime, captured `console.log` output and readable errors with line numbers. Hints, reference solutions, submission history, a per-problem timer and a progress dashboard (streak, acceptance rate, activity heatmap) are saved in your browser, so there is no backend and no sign-up.
 
 **Tech:** React 19 · TypeScript (strict) · Vite 8 (Rolldown) · Tailwind CSS v4 · CodeMirror 6 · Web Workers · Lucide icons
